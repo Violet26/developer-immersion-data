@@ -22,7 +22,7 @@
     "powerbi-api": "1.0.1",
     "restify": "4.1.1",
     "restify-validator": "0.3.1",
-    "sequelize": "3.24.1",
+    "sequelize": "6.3.5",
     "tedious": "1.14.0",
     "toastr": "2.1.2"
   },
